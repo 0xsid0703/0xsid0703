@@ -2,7 +2,7 @@
 
 ## I am a Blockchain Web developer
 <div align=''>
-<span style="size: 10px">
+<span style="font-size: 16px">
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m always looking to collaborate on exciting projects
 - 🥅 2023 Goals: Launch an MVP of mental health application
