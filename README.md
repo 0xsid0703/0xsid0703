@@ -3,9 +3,9 @@
 ## I am a Blockchain Web developer
 <div align=''>
 <span style="font-size: 16px">
-- 🌱 I’m actively growing my skillset
-- 🤝 I’m always looking to collaborate on exciting projects
-- 🥅 2023 Goals: Launch an MVP of mental health application
+- 🌱 I’m actively growing my skillset<br/>
+- 🤝 I’m always looking to collaborate on exciting projects<br/>
+- 🥅 2023 Goals: Launch an MVP of mental health application<br/>
 </span>
 </div>
 
