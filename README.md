@@ -1,9 +1,13 @@
 ### Hey there, I'm 0xSID👋
 
 ## I am a Blockchain Web developer
+<div align=''>
+<span style="size: 10px">
 - 🌱 I’m actively growing my skillset
 - 🤝 I’m always looking to collaborate on exciting projects
 - 🥅 2023 Goals: Launch an MVP of mental health application
+</span>
+</div>
 
 ### 🛠️ Languages and Tools:
 <div align=''>
