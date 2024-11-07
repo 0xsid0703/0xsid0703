@@ -1,6 +1,6 @@
 ### Hey there, I'm SID👋
 
-## I am a Web3 Full Stack developer
+## I am a Full Stack developer
 <div align=''>
 <span style="font-size: 16px">
 - 🌱 I’m actively growing my skillset<br/>
